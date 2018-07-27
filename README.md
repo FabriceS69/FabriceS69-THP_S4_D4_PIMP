@@ -10,7 +10,11 @@ For the first step, the "Plateforme de réservation de docteurs" go to "https://
 
 ### Please check to use :
 
-$ bundle install
+### Please check to test :
+
+$ bundle install <br/>
+$ rails db:migrate <br/>
+$ rails db:seed
 
 ### Tables created with ActiveRecord
 ```
